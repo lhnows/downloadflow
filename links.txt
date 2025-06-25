@@ -1,3 +1,1 @@
-
-https://www.python.org/static/community_logos/python-logo-master-v3-TM.png
-https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png
+https://github.com/VaalaCat/frp-panel/releases/download/v0.1.22/frp-panel-linux-amd64
