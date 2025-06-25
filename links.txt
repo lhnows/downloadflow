@@ -1,1 +1,1 @@
-https://code-liuhao.oss-cn-hangzhou.aliyuncs.com/frp-panel-linux-amd64
+https://dataverse.csuc.cat/api/access/datafile/8866?gbrecs=true
